@@ -36,7 +36,7 @@ A notebook suite that spans self-supervised reconstruction (autoencoders), from-
 2. Training: cross-entropy loss, AdamW with weight decay, cosine schedule; light augmentations (resize/normalize, flips).
 3. Evaluation: top-1 accuracy; confusion matrix; per-class precision/recall.
 
-### Start
+### How to run
 ##### clone
 git clone https://github.com/shnallapeddi/AutoEncoders-Transformers
 cd AutoEncoders-Transformers
